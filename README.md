@@ -1,36 +1,30 @@
-👋 I am a Senior React Fullstack consultant / contractor / freelancer with **more than 7 years** of experience. Excited to empower and help clients worldwide implement the software solutions they need, bringing their business to the next level.
-
-⚛️ Proud to be **Contributor** to the **React.js** and **Next.js Framework**, the main frameworks used for modern frontend development
-
-✏️ Also a 𝐓𝐞𝐜𝐡 𝐖𝐫𝐢𝐭𝐞𝐫 at the tech blog 𝐇𝐚𝐜𝐤𝐞𝐫𝐍𝐨𝐨𝐧, a leading resource for any developer
+👨‍💼 I am a highly skilled React Fullstack freelancer / consultant with over 7 years of experience in the field, with a proven track record of delivering exceptional results for my clients. I am passionate about using my expertise to help businesses around the world achieve their goals through cutting-edge software solutions. I am excited about the opportunity to work with new clients and bring their ideas to life.
 
 💻 Only interested in remote work.
 
-💡 My main and preferred stack is the frontend, but I am also highly skilled on the backend.
-I am always eager for new challenges where I can continue improving my professional and personal skills.
+✏️ 𝐓𝐞𝐜𝐡 𝐖𝐫𝐢𝐭𝐞𝐫 at the tech blog 𝐇𝐚𝐜𝐤𝐞𝐫𝐍𝐨𝐨𝐧, a leading resource for any developer
+⚛️ Contributed to modern frameworks like React.JS and Next.JS
 
-About my skills:<br />
+🛠️ **𝐀𝐛𝐨𝐮𝐭 𝐦𝐲 𝐬𝐤𝐢𝐥𝐥𝐬:**
+My focus lies primarily in frontend development, but I also possess extensive knowledge of the backend. I thrive in challenging environments that allow me to expand my professional and personal abilities. I am constantly seeking new opportunities to grow and enhance my skills.
 
-✅ **Frontend**:<br />
-▪️ JavaScript, React.JS, TypeScript, NextJS<br />
-▪️ Styled-components, SASS/SCSS, Material-UI<br />
-▪️ Tailwind, Webpack, Rollup<br />
-▪️ Jest, Testing-Library<br />
-<br /><br />
-✅ 𝐁𝐚𝐜𝐤𝐞𝐧𝐝:<br />
-▪️ NodeJS, GraphQL, Express.JS<br />
-▪️ PHP, Laravel, PHP Composer<br />
-▪️ MySQL / PostgreSQL<br />
-<br /><br />
-✅ 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞:<br />
-▪️ Database Architecture, Server Deployment<br />
-▪️ Microservices, Monolith, Microfrontends, REST API<br />
-<br /><br />
-🤝 Do you need software solutions for your business? Let's connect!
+**𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝:**
+• JavaScript, React.JS, TypeScript, NextJS
+• Styled-components, SASS/SCSS, Material-UI, Chakra-UI
+• Tailwind, Webpack, Rollup
+• Jest, Testing-Library
 
+**𝐁𝐚𝐜𝐤𝐞𝐧𝐝:**
+• NodeJS, GraphQL, Express.JS
+• PHP, Laravel, PHP Composer
+• MySQL / PostgreSQL
 
-✉ **Email** alexandrutasica.dev@gmail.com
+**𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞:**
+• Database Architecture, Server Deployment
+• Microservices, Monolith, Microfrontends, REST API
 
-🔗 **LinkedIn**: https://www.linkedin.com/in/alexandrutasica/
+🤝 Do you need software solutions for your business? Let's work together!
 
-🌍 **Website** www.alexandrutasica.ro
+✉ **𝐄𝐦𝐚𝐢𝐥:** contact@alexandrutasica.ro
+📞 **𝐏𝐡𝐨𝐧𝐞:** +40 750 460 102
+🌍 **𝐖𝐞𝐛𝐬𝐢𝐭𝐞:** www.alexandrutasica.ro
