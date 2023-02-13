@@ -9,22 +9,35 @@
 
 
 🛠️ **𝐀𝐛𝐨𝐮𝐭 𝐦𝐲 𝐬𝐤𝐢𝐥𝐥𝐬:**
+
 My focus lies primarily in frontend development, but I also possess extensive knowledge of the backend. I thrive in challenging environments that allow me to expand my professional and personal abilities. I am constantly seeking new opportunities to grow and enhance my skills.
 
 **𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝:**
+
 • JavaScript, React.JS, TypeScript, NextJS
+
 • Styled-components, SASS/SCSS, Material-UI, Chakra-UI
+
 • Tailwind, Webpack, Rollup
+
 • Jest, Testing-Library
 
+
 **𝐁𝐚𝐜𝐤𝐞𝐧𝐝:**
+
 • NodeJS, GraphQL, Express.JS
+
 • PHP, Laravel, PHP Composer
+
 • MySQL / PostgreSQL
 
+
 **𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞:**
+
 • Database Architecture, Server Deployment
+
 • Microservices, Monolith, Microfrontends, REST API
+
 
 
 🤝 Do you need software solutions for your business? Let's work together!
