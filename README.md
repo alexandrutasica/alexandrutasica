@@ -1,11 +1,15 @@
 👨‍💼 I am a highly skilled React Fullstack freelancer / consultant with over 7 years of experience in the field, with a proven track record of delivering exceptional results for my clients. I am passionate about using my expertise to help businesses around the world achieve their goals through cutting-edge software solutions. I am excited about the opportunity to work with new clients and bring their ideas to life.
 
+.
 
 💻 Only interested in remote work.
 
+.
 
 ✏️ 𝐓𝐞𝐜𝐡 𝐖𝐫𝐢𝐭𝐞𝐫 at the tech blog 𝐇𝐚𝐜𝐤𝐞𝐫𝐍𝐨𝐨𝐧, a leading resource for any developer
 ⚛️ Contributed to modern frameworks like React.JS and Next.JS
+
+.
 
 
 🛠️ **𝐀𝐛𝐨𝐮𝐭 𝐦𝐲 𝐬𝐤𝐢𝐥𝐥𝐬:**
@@ -38,10 +42,12 @@ My focus lies primarily in frontend development, but I also possess extensive kn
 
 • Microservices, Monolith, Microfrontends, REST API
 
+.
 
 
 🤝 Do you need software solutions for your business? Let's work together!
 
+.
 
 ✉ **𝐄𝐦𝐚𝐢𝐥:** contact@alexandrutasica.ro
 
