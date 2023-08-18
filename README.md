@@ -51,6 +51,4 @@ My focus lies primarily in frontend development, but I also possess extensive kn
 
 ✉ **𝐄𝐦𝐚𝐢𝐥:** contact@alexandrutasica.ro
 
-📞 **𝐏𝐡𝐨𝐧𝐞:** +40 750 460 102
-
 🌍 **𝐖𝐞𝐛𝐬𝐢𝐭𝐞:** www.alexandrutasica.ro
