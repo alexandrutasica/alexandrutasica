@@ -1,4 +1,4 @@
-👨‍💼 I am a highly skilled React Fullstack freelancer / consultant with over 7 years of experience in the field, with a proven track record of delivering exceptional results for my clients. I am passionate about using my expertise to help businesses around the world achieve their goals through cutting-edge software solutions. I am excited about the opportunity to work with new clients and bring their ideas to life.
+I am a highly skilled React Fullstack freelancer / consultant with over 8 years of experience in the field, with a proven track record of delivering exceptional results for my clients. I am passionate about using my expertise to help businesses around the world achieve their goals through cutting-edge software solutions. I am excited about the opportunity to work with new clients and bring their ideas to life.
 
 .
 
